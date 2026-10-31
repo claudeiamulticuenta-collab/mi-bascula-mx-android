@@ -1,11 +1,13 @@
 # Mi Báscula MX para Android
 
-[Usar la página web](https://mi-bascula.firebaseapp.com/) · [Descargar la última versión de Android](https://github.com/claudeiamulticuenta-collab/mi-bascula-mx-android/releases/latest/download/Mi-Bascula-Android.apk)
+[Usar la página web](https://mibasculamx.web.app/) · [Descargar la última versión de Android](https://github.com/claudeiamulticuenta-collab/mi-bascula-mx-android/releases/latest/download/Mi-Bascula-Android.apk)
 
 Aplicación en español (México) para registrar e interpretar mediciones corporales. Entra con el mismo Google de la web para compartir tu cuenta, perfil, mediciones y membresía.
 
-## Versión actual: 1.4.1
+## Versión actual: 1.5.0
 
+- Historial compacto, exportación arriba y selector CSV/JSON sin altura fija.
+- Indicador al preparar el archivo, estados vacíos y fechas locales.
 - Nuevo diseño compartido con la web.
 - Resumen de peso, porcentajes y kilos de grasa y músculo.
 - Revisión antes de guardar una medición.
@@ -16,10 +18,10 @@ Descarga el APK desde el enlace de última versión e instálalo sobre la app ex
 
 Distribución directa en fase de pruebas: Android puede pedir autorización para instalar desde el navegador y mostrar avisos de seguridad. Esta descarga no constituye una publicación ni una revisión de Google Play. Los pagos y los anuncios reales siguen desactivados. La versión de iPhone está pendiente de compilación y publicación.
 
-SHA-256 del APK 1.4.1:
+SHA-256 del APK 1.5.0:
 
 ```text
-dea7cdc39ecfb2af40c3094f12beae1bb720a38739783a93b64a12821c8fb178
+10af2c97fb027cf4c47a226af2e161dd02050aab7c81d8e436c7bec6161bdca1
 ```
 
 Este repositorio distribuye el instalador y su documentación. No contiene datos de usuarios, claves privadas ni el código fuente de la aplicación.
